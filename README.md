@@ -1,8 +1,7 @@
 ### As AI Researcher 🤔
 
-현재 지식 그래프를 활용하는 자연어 처리 분야를 연구하고 있습니다. 그런데 정말로 연구를 하는지는 잘 모르겠습니다.
-
-쓸 줄 아는 언어는 거의 파이썬밖에 없으며, C도 읽을 줄은 압니다. 어렸을 때 HTML로 홈페이지를 만드는 방법을 배운 적이 있습니다.
+- 현재 지식 그래프를 활용하는 자연어 처리 분야를 연구하고 있습니다. 그런데 정말로 연구를 하는지는 잘 모르겠습니다.
+- 쓸 줄 아는 언어는 거의 파이썬밖에 없으며, C도 읽을 줄은 압니다. 어렸을 때 HTML로 홈페이지를 만드는 방법을 배운 적이 있습니다.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingjudith&layout=compact)
 
@@ -20,6 +19,7 @@
 | Wendy TKL                        | TKL WKL  | Alu         | Malvix Studio Irene                    |
 | Ciel60                           | 60% WK   | Alu         | Gazzew Boba U4T                        |
 
-### As Gamer
+### As Gamer 🎮
 
-다음 링크로 대체합니다. [스팀 프로필](https://steamcommunity.com/id/dreamingjudith/)
+- PC 게임 이력은 다음 링크로 대체합니다. [스팀 프로필](https://steamcommunity.com/id/dreamingjudith/)
+- 스위치 게임도 조금씩 합니다. 최근에는 "모여봐요 동물의 숲"을 다시 시작했고, 그 전에는 "젤다의 전설: Tears of the Kingdom"을 했습니다.
