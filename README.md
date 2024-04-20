@@ -14,10 +14,10 @@
 | 키보드 이름                      | 레이아웃 | 보강판 종류 | 사용 중인 스위치                       |
 | -------------------------------- | -------- | ----------- | -------------------------------------- |
 | QK80                             | TKL WK   | PC          | Owlab London Fog                       |
-| Ikki68 Aurora R2 x Winter Breath | 68%      | PC          | SW x Gateron Maestro                   |
-| Bear65 R2                        | 65% Ergo | PC          | Ashkeebs Alexandrite w/ Geon Pure Stem |
+| Ikki68 Aurora R2 x Winter Breath | 68%      | FR-4        | SP-Star Polaris Purple                 |
+| Bear65 R2                        | 65% Ergo | PC          | SW x Gateron Pure Berry                |
 | Wendy TKL                        | TKL WKL  | Alu         | Malvix Studio Irene                    |
-| Ciel60                           | 60% WK   | Alu         | Gazzew Boba U4T                        |
+| Ciel60                           | 60% WK   | Alu         | Cherry MX Ergo Clear                   |
 
 ### As Gamer 🎮
 
