@@ -9,16 +9,17 @@
 
 커스텀 키보드를 좋아합니다. 돈만 있으면 갖고 싶은 걸 다 사고 싶지만 그러지는 못 하고 간간히 스위치나 구매해서 수시로 리빌드를 합니다.
 
-다음은 현재 가지고 있는 키보드 목록입니다.
+다음은 현재 가지고 있는 키보드 목록입니다. (최근 구매순, 넘패드/매크로패드 제외)
 
-| 키보드 이름                                   | 레이아웃 | 보강판 종류 | 사용 중인 스위치        |
-| --------------------------------------------- | -------- | ----------- | ----------------------- |
-| **Qwertkey** QK80                                 | TKL WK   | POM         | HMX Snowcrash           |
-| **Luminkey** LX60                                 | 60% HHKB | PC          | SW x Gateron Pure Berry |
-| **Wuque Studio** Ikki68 Aurora R2 x Winter Breath | 68%      | PC          | Cherry MX Ergo Clear    |
-| **Jacky Studio** Bear65 R2                        | 65% Ergo | PC          | BSUN RAW                |
-| **Kibou** Wendy TKL                               | TKL WKL  | Alu         | Malvix Studio Irene     |
-| **ChickenMan** Ciel60                             | 60% WK   | CF          | TTC Holy Panda v2       |
+| 키보드 이름                                       | 레이아웃              | 마운트 방식        | 보강판 종류 | 사용 중인 스위치       |
+| ------------------------------------------------- | --------------------- | ------------------ | ----------- | ---------------------- |
+| **ai03** Altair                                   | 60% Ortholinear Split | PCB PORON Gasket   | PC          | Owlab London Fog       |
+| **Luminkey** LX60                                 | 60% HHKB              | Gummy O-ring       | FR-4        | Cherry MX Black        |
+| **Qwertkey** QK80                                 | TKL WK                | PCB Silicon Gasket | POM         | Wuque Studio Quartz    |
+| **Kibou** Wendy TKL                               | TKL WKL               | Gummy O-ring       | Alu         | Malvix Studio Irene    |
+| **ChickenMan** Ciel60                             | 60% WK                | Gummy O-ring       | Alu         | SP-Star Polaris Purple |
+| **Jacky Studio** Bear65 R2                        | 65% Ergo              | PORON Gasket       | PC          | BSUN RAW               |
+| **Wuque Studio** Ikki68 Aurora R2 x Winter Breath | 68%                   | Silicon Gasket     | PC          | Cherry MX Ergo Clear   |
 
 ### As Gamer 🎮
 
